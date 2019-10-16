@@ -1,0 +1,6 @@
+framework module Pods_MediaMine {
+  umbrella header "Pods-MediaMine-umbrella.h"
+
+  export *
+  module * { export * }
+}
